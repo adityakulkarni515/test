@@ -1,0 +1,5 @@
+astapi
+uvicorn[standard]
+pytest
+httpx
+
